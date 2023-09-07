@@ -1,0 +1,17 @@
+.area {
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+}
+
+.right_align {
+    align-self: flex-end;
+}
+
+.font_white {
+    color: white;
+}
+
+.font_dark {
+    color: black;
+}
